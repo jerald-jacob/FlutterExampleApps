@@ -7,9 +7,6 @@
 
 This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
-## YouTube Channel
-
-[MTechViral](https://www.youtube.com/c/MTechViral)
 
 ## Facebook Group
 
